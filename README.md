@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=C8F756&width=800&height=100&lines=Hi+there!+;Let's+start+our+acquaintance!+)](https://git.io/typing-svg)
 <!--
 **Vol4uk13/Vol4uk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
