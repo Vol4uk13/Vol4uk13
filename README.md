@@ -27,3 +27,4 @@ Here are some ideas to get you started:-->
 | name | source | short description | metrics and tools | links |
 | --- | --- | --- |  --- | --- |
 | Internet-store 'Стримчик',  that sells computer games all over the world | Yandex Practicum | The task is to identify patterns that determine the success of the game. | Tools: Python, Matplotlib, Seaborn | [Link](https://github.com/Vol4uk13/master/tree/master/Control_project-1) |
+| Research of borrowers' reliability | Yandex Practicum | It is necessary to understand whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. | Tools: Python, , Matplotlib, Seaborn | [Link](https://github.com/Vol4uk13/master/tree/master/Data_preprocessing) |
