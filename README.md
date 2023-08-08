@@ -36,3 +36,9 @@ Here are some ideas to get you started:-->
 | name | source | short description | metrics and tools | links |
 | --- | --- | --- |  --- | --- |
 |The company "Чëтенькое такси" has collected historical data on taxi orders at airports. | Yandex Practicum | It is necessary to predict the number of taxi orders for the next hour. | Metric: RMSE<48 Reached metric:42.97  Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn (Sklearn) | [Link](https://github.com/Vol4uk13/master/tree/master/Time_series) |
+
+### Computer vision
+
+| name | source | short description | metrics and tools | links |
+| --- | --- | --- |  --- | --- |
+| Supermarket "Bread-Salt" introduces a computer  vision system for processing customer photos. | Yandex Practicum | It is necessary to develop a linear regression model that can determine  the approximate age of a person from a photo. | Metric: MAE>8 Reached metric: 5.55 Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, Krras.  | [Link](https://github.com/Vol4uk13/master/tree/master/Computer_vision) |
