@@ -41,4 +41,10 @@ Here are some ideas to get you started:-->
 
 | name | source | short description | metrics and tools | links |
 | --- | --- | --- |  --- | --- |
-| Supermarket "Bread-Salt" introduces a computer  vision system for processing customer photos. | Yandex Practicum | It is necessary to develop a linear regression model that can determine  the approximate age of a person from a photo. | Metric: MAE>8 Reached metric: 5.55 Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, Krras.  | [Link](https://github.com/Vol4uk13/master/tree/master/Computer_vision) |
+| Supermarket "Bread-Salt" introduces a computer  vision system for processing customer photos. | Yandex Practicum | It is necessary to develop a linear regression model that can determine  the approximate age of a person from a photo. | Metric: MAE>8; Reached metric: 5.55; Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, Krras.  | [Link](https://github.com/Vol4uk13/master/tree/master/Computer_vision) |
+
+### Projects with data preparation and feature engineering to model training and scoring, model training. 
+
+| name | source | short description | metrics and tools | links |
+| --- | --- | --- |  --- | --- |
+| Task of gold recovery for company 'Numbers' | Yandex Practicum | Prepare a model that should predict the recovery rate of gold from gold-bearing ore | Metric: SMAPE minimal;  Reached metric: 9.15;   Tools: Pandas, Numpy, Matplotlib, Seaborn, Scklearn: cross_val_score,RandomizedSearchCV, LinearRegression, DecisionTreeRegressor, RandomForestRegressor | [Link](https://github.com/Vol4uk13/master/tree/master/Control_project-2) |
