@@ -43,6 +43,12 @@ Here are some ideas to get you started:-->
 | --- | --- | --- |  --- | --- |
 | Supermarket "Bread-Salt" introduces a computer  vision system for processing customer photos. | Yandex Practicum | It is necessary to develop a linear regression model that can determine  the approximate age of a person from a photo. | Metric: MAE>8; Reached metric: 5.55; Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, Krras.  | [Link](https://github.com/Vol4uk13/master/tree/master/Computer_vision) |
 
+### ML for text
+
+| name | source | short description | metrics and tools | links |
+| --- | --- | --- |  --- | --- |
+| 'Wikishop' online store launches a new service with users comments. (Classification task) | Yandex Practicum | Train the model to classify comments into positive and negative. | Metric: F1>0.75; Reached metric: 0.79; Tools: Python, Pandas, Matplotlib, Seaborn, Numpy, pandarallel, spacy, nltk, SGDClassifier, LogisticRegression, LinearSVC, AdaBoostClassifier, TfidfVectorizer | [Link](https://github.com/Vol4uk13/master/tree/master/ML_for_text) |
+
 ### Projects with data preparation and feature engineering to model training and scoring, model training. 
 
 | name | source | short description | metrics and tools | links |
@@ -51,3 +57,4 @@ Here are some ideas to get you started:-->
 | Analysis of customer behavior for mobile operator "Megaline" (Classification task) | Yandex Practicum | Build a model that can analyze customer behavior and offer users a tariff. | Metric: Accuracy>0.75; Reached metric:0.8; Tools: Pandas,Matplotlib, Seaborn, Scklearn: RandomizedSearchCV, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, DummyClassifier | [Link](https://github.com/Vol4uk13/master/tree/master/Introduction_to_ML) |
 | 'Beta' bank's historical customer data | Yandex Practicum | It is necessary to predict whether the client will leave the bank in the near future or not. | Metric: F1>0.59; Reached metric: | [Link](https://github.com/Vol4uk13/master/tree/master/Learning_with_teacher) |
 | Customers data of the insurance company "Хоть Потоп" | Yandex Practicum | It is necessary to develop a method for encrypting personal data. | Metric: | [Link](https://github.com/Vol4uk13/master/tree/master/Linear_algebra) |
+| Mining company «ГлавРосГосНефть» | Yandex Practicum | We need to build a machine learning model that will help determine the region where mining will bring the greatest profit. Analyze the possible profits and risks with the Bootstrap technique. |  Metric: | [Link](https://github.com/Vol4uk13/master/tree/master/ML_in_business) |
