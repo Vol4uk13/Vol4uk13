@@ -49,6 +49,12 @@ Here are some ideas to get you started:-->
 | --- | --- | --- |  --- | --- |
 | 'Wikishop' online store launches a new service with users comments. (Classification task) | Yandex Practicum | Train the model to classify comments into positive and negative. | Metric: F1>0.75; Reached metric: 0.79; Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn, Numpy, pandarallel, spacy, nltk, SGDClassifier, LogisticRegression, LinearSVC, AdaBoostClassifier, TfidfVectorizer | [Link](https://github.com/Vol4uk13/master/tree/master/ML_for_text) |
 
+### SQL
+
+| name | source | short description | metrics and tools | links |
+| --- | --- | --- |  --- | --- |
+| Startup Investments: Venture deals, organizations, people and exits | Yandex Practicum | This diverse dataset contains information about the startup ecosystem: organizations, individuals, company news, funding rounds, acquisitions, and IPOs. There are 11 tables that can be joined using unique IDs | Tools: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | [Link](https://github.com/Vol4uk13/master/tree/master/SQL_issues) |
+
 ### Projects with data preparation and feature engineering to model training and scoring, model training. 
 
 | name | source | short description | metrics and tools | links |
