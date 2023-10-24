@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 😄 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 - 🌱 Изучаю R, Mariadb, LaTeX,  termux. 
 - 👯 Ищу коллаборацию для участия в **ML projects**
-- 📫 Со мной можно связать по: [Telegram](https://t.me/VoL4uk13) 
+- 📫 Со мной можно связаться по: [Telegram](https://t.me/VoL4uk13) 
 
 
 ## Дипломы:
